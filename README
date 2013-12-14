@@ -1,14 +1,14 @@
 openwire Python Framework v0.1 alpha
 
 To run this version of openwire simply run:
-
+```shell
 chmod +x openwire
 ./openwire
-
+```
 or you can type 
-
+```shell
 python openwire
-
+```
 directly. Version on this server has a customized shebang to point to 
 the python2.7 altinstall, please adjust this accordingly on any other 
 systems.
